@@ -1,5 +1,6 @@
 console.log('this is loaded');
 
+//these are the twitter API credentials
 exports.twitterKeys = {
   consumer_key: 'xwjk9BHCXcRTIuA11NzVQp9Hn',
   consumer_secret: 'E713okVVwHle4eTwloNjtesDuD1eJmwNwNyPZ2iIcWDylO00Mw',
